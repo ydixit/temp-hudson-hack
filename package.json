@@ -12,6 +12,7 @@
   ],
   "contributors": [
     {
+<<<<<<< HEAD
       "name": "Alex Luo",
       "email": "aluo@gilt.com"
     },
@@ -22,6 +23,10 @@
     {
       "name": "Helena Wu",
       "email": "hwu@gilt.com"
+=======
+      "name": "Helena Wu",
+      "email": "helenawu.hw@gmail.com"
+>>>>>>> aed1e60d20bf63ed7dcb4f9a8c5b3cba71315f55
     },
     {
       "name": "Yogisha Dixit",

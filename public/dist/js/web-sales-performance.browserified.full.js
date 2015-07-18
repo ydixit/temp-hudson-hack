@@ -1,4 +1,5 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+<<<<<<< HEAD
 (function () {
 
   'use strict';
@@ -29406,3 +29407,9 @@ require('./angular');
 module.exports = angular;
 
 },{"./angular":4}]},{},[1]);
+=======
+if (window.console) {
+  console.log("Welcome to your Play application's JavaScript!");
+}
+},{}]},{},[1]);
+>>>>>>> aed1e60d20bf63ed7dcb4f9a8c5b3cba71315f55

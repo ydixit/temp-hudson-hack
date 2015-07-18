@@ -2,6 +2,10 @@
 node_modules
 npm-debug.log
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> aed1e60d20bf63ed7dcb4f9a8c5b3cba71315f55
 logs
 target
 /.idea
