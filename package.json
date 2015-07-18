@@ -1,0 +1,79 @@
+{
+  "name": "web-sales-performance",
+  "group": "web-sales-performance",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Sale Performance Dashboard",
+  "repository": [
+    {
+      "type": "git",
+      "url": "git@github.com:gilt/web-sales-performance.git"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Alex Luo",
+      "email": "aluo@gilt.com"
+    },
+    {
+      "name": "Courtney Ligh",
+      "email": "cligh@gilt.com"
+    },
+    {
+      "name": "Helena Wu",
+      "email": "hwu@gilt.com"
+    },
+    {
+      "name": "Yogisha Dixit",
+      "email": "ydixit@gilt.com"
+    }
+  ],
+  "author": {
+    "name": "Gilt Groupe",
+    "email": "info@gilt.com",
+    "url": "http://gilt.com/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/gilt/gilt-swig/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "web-sales-performance"
+  ],
+  "dependencies": {
+    "angular": "^1.4.0",
+    "angular-route": "^1.4.0",
+    "bootstrap": "^3.3.4",
+    "chartist": "^0.9.1",
+    "socketwrench": "^0.5.3"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "chai": "^2.1.0",
+    "gulp": "^3.8.11",
+    "gulp-debug": "^2.0.1",
+    "gulp-jshint": "^1.9.2",
+    "gulp-less": "^3.0.1",
+    "gulp-mocha": "^2.0.0",
+    "gulp-print": "^1.1.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^1.1.0",
+    "gulp-watch": "^4.1.1",
+    "jshint-stylish": "^1.0.1",
+    "less-plugin-clean-css": "^1.5.0",
+    "less-plugin-npm-import": "^2.1.0",
+    "mocha": "^2.1.0",
+    "mochify": "^2.6.0",
+    "phantomjs": "^1.9.16",
+    "require-dir": "^0.1.0",
+    "sinon": "^1.12.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0",
+    "vinyl-transform": "^1.0.0",
+    "watchify": "^2.4.0"
+  }
+}
